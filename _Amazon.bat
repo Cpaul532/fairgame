@@ -1,1 +1,1 @@
-pipenv run python app.py amazon --delay=3 --no-screenshots --no-image
+cmd /k pipenv run python app.py amazon --test
